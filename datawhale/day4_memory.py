@@ -1,6 +1,6 @@
 from typing import List, Dict, Any, Optional
 
-from datawhale.day3 import HelloAgentLLM
+from day3 import HelloAgentLLM
 
 
 class Memory:

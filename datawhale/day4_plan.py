@@ -1,6 +1,6 @@
 import ast
 
-from datawhale.day3 import HelloAgentLLM
+from day3 import HelloAgentLLM
 
 PLANNER_PROMPT_TEMPLATE = """
 你是一个顶级的AI规划专家。你的任务是将用户提出的复杂问题分解成一个由多个简单步骤组成的行动计划。

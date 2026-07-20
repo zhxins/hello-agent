@@ -1,7 +1,7 @@
 import re
 
-from datawhale.day3 import HelloAgentLLM
-from datawhale.day3_tools import ToolExecutor, search
+from day3 import HelloAgentLLM
+from day3_tools import ToolExecutor, search
 
 # ReAct 提示词模板
 REACT_PROMPT_TEMPLATE = """
