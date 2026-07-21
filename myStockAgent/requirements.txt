@@ -1,0 +1,9 @@
+# myStockAgent 项目依赖
+# 安装: pip install -r requirements.txt
+# Python: 3.10 (py310 conda env)
+
+# LLM Agent 框架（提供 HelloAgentsLLM、ToolRegistry）
+hello-agents==0.2.9
+openai>=1.0.0
+python-dotenv>=1.0.0
+requests>=2.31.0
